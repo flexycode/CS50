@@ -4,7 +4,7 @@ Problem sets and projects for Harvard CS50: Introduction to Computer Science
 
 To complete the following psets, study all of the CS50 lectures, walkthroughs, sections, and shorts on edX.
 
-## Table of Content
+## 📋 Table of Content
 
 
 
