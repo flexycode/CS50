@@ -6,20 +6,21 @@ To complete the following psets, study all of the CS50 lectures, walkthroughs, s
 
 ## Table of Content
 
-I will create a table for this later :)
 
-* Week 0 Scratch
-* Week 1 C
-* Week 2 Arrays
-* Week 3 Algorithms
-* Week 4 Memory
-* Week 5 Data Structures
-* Week 6 Python
-* Week 6.5 Artificial Intelligence
-* Week 7 SQL
-* Week 8 HTML, CSS, JavaScript
-* Week 9 Flask
-* Week 10 Cybersecurity
 
+| **Week** | **Topic** | **Problem Set** |
+| --- | --- | --- |
+| 0 | Scratch | Problem Set 0 |
+| 1 | C | Problem Set 1 |
+| 2 | Arrays | Problem Set 2 |
+| 3 | Algorithms | Problem Set 3 |
+| 4 | Memory | Problem Set 4 |
+| 5 | Data Structures | Problem Set 5 |
+| 6 | Python | Problem Set 6 |
+| 6.5 | Artificial Intelligence | Problem Set 6.5 |
+| 7 | SQL | Problem Set 7 |
+| 8 | HTML, CSS, JavaScript | Problem Set 8 |
+| 9 | Flask | Problem Set 9 |
+| 10 | Cybersecurity | Problem Set 10 |
 
 ##### HarvardX • CS50x - 2024 • Course ends January 1, 2025
