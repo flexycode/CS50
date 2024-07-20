@@ -7,7 +7,6 @@ To complete the following psets, study all of the CS50 lectures, walkthroughs, s
 ## 📋 Table of Content
 
 
-
 | **Week** | **Topic** | **Problem Set** |
 | --- | --- | --- |
 | 0 | Scratch | Problem Set 0 |
@@ -22,5 +21,13 @@ To complete the following psets, study all of the CS50 lectures, walkthroughs, s
 | 8 | HTML, CSS, JavaScript | Problem Set 8 |
 | 9 | Flask | Problem Set 9 |
 | 10 | Cybersecurity | Problem Set 10 |
+
+## Problem Set
+
+* Pset 0
+* Pset 1
+* Pset 2
+* Pset 3
+* Pset 4
 
 ##### HarvardX • CS50x - 2024 • Course ends January 1, 2025
