@@ -47,8 +47,11 @@ To complete the following psets, study all of the CS50 lectures, walkthroughs, s
 - ✨ Coming Soon
 - ✨ Coming Soon
 
-🧊 CS50x - 2025
+## [01.0.1] - 2025-01-25   
+### Added  
+- ✨ Add new Private repo for CS50x
 
+🧊 CS50x - 2025
 ```
 
 <!-- Introduction Pannel button link, it will redirect to the top -->
